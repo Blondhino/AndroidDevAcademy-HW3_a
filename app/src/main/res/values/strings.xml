@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CV app</string>
+    <string name="ProfileName">TONY STARK</string>
+    <string name="ProfileShortInfo">#visionary</string>
+    <string name="about_me_title">ABOUT ME</string>
+    <string name="about_Tony_Stark">Anthony Edward "Tony Stark" was a billionaire industrialist, inventor, a founding member of the Avengers, and the former CEO of Stark Industries, a company originally started by his father.</string>
+    <string name="dummy_text_small">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tincidunt lobortis feugiat vivamus at augue eget. </string>
+    <string name="dummy_text_medium">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tincidunt lobortis feugiat vivamus at augue eget. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tincidunt lobortis feugiat vivamus at augue eget.</string>
+    <string name="dummy_text_big"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tincidunt lobortis feugiat vivamus at augue eget. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tincidunt lobortis feugiat vivamus at augue eget. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tincidunt lobortis feugiat vivamus at augue eget. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tincidunt lobortis feugiat vivamus at augue eget.</string>
+    <string name="education_title">EDUCATION</string>
+    <string name="experience_title">EXPERIENCE</string>
+    <string name="project_title">PROJECT</string>
+</resources>

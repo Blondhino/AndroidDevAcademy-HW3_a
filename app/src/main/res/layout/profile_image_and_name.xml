@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:elevation="5dp"
+    android:background="@color/colorPrimaryDark"
+    android:padding="@dimen/medium_margin"
+    >
+    
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/ivProfileImage"
+        android:layout_width="@dimen/profile_image_dim"
+        android:layout_height="@dimen/profile_image_dim"
+        android:src="@drawable/stark"
+        android:layout_alignParentEnd="true"
+        android:layout_centerVertical="true"
+        />
+
+<TextView
+    android:id="@+id/tvName"
+    android:layout_above="@id/tvProfileShortInfo"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:textSize="@dimen/profile_text_size"
+    android:text="@string/ProfileName"
+    android:textColor="@color/colorWhite"
+    android:fontFamily="sans-serif-light"
+    android:transitionName="img1_transition"
+    />
+
+    <TextView
+        android:id="@+id/tvProfileShortInfo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:text="@string/ProfileShortInfo"
+        android:textColor="@color/colorDarkWhite"
+        android:fontFamily="sans-serif-light"
+        android:textStyle="italic"
+        android:textSize="@dimen/profile_text_size_small"
+        />
+
+
+
+
+</RelativeLayout>
